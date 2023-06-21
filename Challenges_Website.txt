@@ -1,0 +1,6 @@
+// WEBSITES for taking HTML/CSS challenges
+1. FreeCodeCamp  -  (html,css,js,db,dsa challenges)  - https://www.freecodecamp.org/
+
+// WEBSITES for taking JS challenges
+
+// WEBSITES for taking REACT challenges
